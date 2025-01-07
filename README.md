@@ -1,4 +1,12 @@
-# Digit Recognizer with Multi-Class Classification (Unity, PyTorch, NumPy, Matplotlib, pandas)
+# Digit Recognizer with Multi-Class Classification
+
+## How to Run
+
+Download the game below:
+
+For MacOS Silicon or MacOS Intel 64-bit: https://storage.googleapis.com/mnist-game/mnist-MacOS-silicon-intel64bit.app.zip
+
+---
 
 ## About the Project
 
@@ -90,24 +98,6 @@ Additionally, I tested my custom **C# Supervised Learning Neural Network Library
 - Interactive digit recognition app:
   - Draw digits on the canvas and see real-time predictions.
   - Integrates the C# library with pre-trained PyTorch parameters.
-
----
-
-## How to Run
-
-### Prerequisites
-- Unity (2022.3 or later recommended)
-- Python 3.7+ with the following libraries:
-  - PyTorch
-  - NumPy
-  - Matplotlib
-  - pandas
-
-### Steps
-1. Clone this repository.
-2. Open the Unity project in Unity Editor.
-3. Run the application in **Play Mode** or export it to your platform of choice.
-4. (Optional) Re-train the model using the provided PyTorch notebooks.
 
 ---
 
