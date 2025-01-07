@@ -2,7 +2,7 @@
 
 ## How to Run
 
-Download the game below:
+Download the game below, it will be under the name "Quick, Draw! Clone":
 
 Unity Download: https://storage.googleapis.com/mnist-game/mnist_game_unity.zip
 
