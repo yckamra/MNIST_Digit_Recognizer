@@ -4,7 +4,7 @@
 
 Download the game below:
 
-For MacOS Silicon or MacOS Intel 64-bit: https://storage.googleapis.com/mnist-game/mnist-MacOS-silicon-intel64bit.app.zip
+For MacOS Silicon or MacOS Intel 64-bit: https://storage.googleapis.com/mnist-game/mnist-MacOS.zip
 
 ---
 
