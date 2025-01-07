@@ -8,6 +8,8 @@ Unity Download: https://storage.googleapis.com/mnist-game/mnist_game_unity.zip
 
 Build for MacOS Silicon or MacOS Intel 64-bit: https://storage.googleapis.com/mnist-game/mnist-MacOS.zip
 
+Build for Windows 64-bit: https://storage.googleapis.com/mnist-game/mnist-windows64.zip
+
 Note that some platforms will block the application from unidentified developers so you will need to bypass this and then enjoy the game!
 
 ---
